@@ -11,3 +11,4 @@ C:\Users\Я\source\repos\Trenu_Git\Trenu_Git\obj\Debug\netcoreapp3.1\Trenu_Git.c
 C:\Users\Я\source\repos\Trenu_Git\Trenu_Git\obj\Debug\netcoreapp3.1\Trenu_Git.dll
 C:\Users\Я\source\repos\Trenu_Git\Trenu_Git\obj\Debug\netcoreapp3.1\Trenu_Git.pdb
 C:\Users\Я\source\repos\Trenu_Git\Trenu_Git\obj\Debug\netcoreapp3.1\Trenu_Git.genruntimeconfig.cache
+C:\Users\Я\source\repos\Trenu_Git\Trenu_Git\obj\Debug\netcoreapp3.1\Trenu_Git.csproj.AssemblyReference.cache
