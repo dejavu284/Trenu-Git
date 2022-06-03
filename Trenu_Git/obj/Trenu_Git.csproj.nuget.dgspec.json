@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Я\\source\\repos\\Trenu_Git\\Trenu_Git\\Trenu_Git.csproj": {}
+    "C:\\Users\\Я\\source\\repos\\new-git-project\\Trenu-Git\\Trenu_Git\\Trenu_Git.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Я\\source\\repos\\Trenu_Git\\Trenu_Git\\Trenu_Git.csproj": {
+    "C:\\Users\\Я\\source\\repos\\new-git-project\\Trenu-Git\\Trenu_Git\\Trenu_Git.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Я\\source\\repos\\Trenu_Git\\Trenu_Git\\Trenu_Git.csproj",
+        "projectUniqueName": "C:\\Users\\Я\\source\\repos\\new-git-project\\Trenu-Git\\Trenu_Git\\Trenu_Git.csproj",
         "projectName": "Trenu_Git",
-        "projectPath": "C:\\Users\\Я\\source\\repos\\Trenu_Git\\Trenu_Git\\Trenu_Git.csproj",
+        "projectPath": "C:\\Users\\Я\\source\\repos\\new-git-project\\Trenu-Git\\Trenu_Git\\Trenu_Git.csproj",
         "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Я\\source\\repos\\Trenu_Git\\Trenu_Git\\obj\\",
+        "outputPath": "C:\\Users\\Я\\source\\repos\\new-git-project\\Trenu-Git\\Trenu_Git\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,7 +6,7 @@ namespace Trenu_Git
 {
     class Class1
     {
-        private string pole = "trenim git";
+        private string pole = "!!!!!!!!!!!!";
         public void PrintPole()
         {
             Console.WriteLine(pole);
